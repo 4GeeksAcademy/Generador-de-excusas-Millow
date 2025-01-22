@@ -1,1 +1,18 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+* {
+  background: green;
+}
+#boton {
+  background: darkred;
+  border-radius: 50px;
+}
+#Pregunta {
+  background: darkred;
+  color: darkslateblue;
+  border-radius: 50px;
+  justify-content: center;
+}
+mark {
+  background: grey;
+  border-radius: 8px;
+}
